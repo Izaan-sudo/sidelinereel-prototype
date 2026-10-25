@@ -1,7 +1,7 @@
 # SidelineReel — PM Assessment (Ajaia)
 
 **Video:** `<PASTE VIDEO LINK HERE>`
-**Prototype:** `<PASTE PROTOTYPE LINK HERE>` (single self-contained HTML file, `sidelinereel-prototype.html`; open in any browser, no install, no network needed)
+**Prototype:** https://izaan-sudo.github.io/sidelinereel-prototype/ (code: https://github.com/Izaan-sudo/sidelinereel-prototype; single self-contained HTML file, also runs offline)
 **Candidate:** Muhammad Izaan · izaanatif@gmail.com
 **Optional links:** `<portfolio / LinkedIn / GitHub — or leave blank>`
 
@@ -167,8 +167,8 @@ Occlusion or motion blur can make #14 look like a clean #4 at 0.98 confidence. T
 
 ## Task 3 — Prototype
 
-**File:** `sidelinereel-prototype.html` (runs offline, single file, click-through).
-**Link:** `<PASTE PROTOTYPE LINK HERE>`
+**File:** `index.html` in the repo (runs offline, single file, click-through).
+**Link:** https://izaan-sudo.github.io/sidelinereel-prototype/ · Repo: https://github.com/Izaan-sudo/sidelinereel-prototype
 
 The core flow, three screens:
 1. **Tagging results → routing.** One game's tagged clips with confidence, confusable-pair detection computed live from the roster, and Auto-approved vs. Held status. A threshold slider shows how routing changes.
